@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Samir
 
-<!--
-**Sam-MI6/Sam-MI6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação
 
-Here are some ideas to get you started:
+## 🚀 Atualmente estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Git e GitHub
+- HTML e CSS
+
+## 📚 Objetivo
+
+Continuar aprendendo programação e desenvolver meus conhecimentos
+na área de tecnologia.
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
